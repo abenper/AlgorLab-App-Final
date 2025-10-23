@@ -29,30 +29,30 @@ Algorlab/
 
 ## 🖼️ Capturas de pantalla
 
-### Vista principal
-![Vista principal](images/1.png)
+### Login Aplicación
+![Login](images/1.png)
 
-### Gestión de usuarios
-![Gestión de usuarios](images/2.png)
+### Gestión de trabajadores/profesores
+![Gestión de trabajadores](images/2.png)
 
-### Reportes
+### Gestión de alumnos
 ![Reportes](images/3.png)
 
-### Configuración
-![Configuración](images/4.png)
+### Gestión de tareas
+![Tareas](images/4.png)
 
-### Base de datos
-![Base de datos](images/5.png)
+### Gestión de entregas
+![Entregas](images/5.png)
 
-### Interfaz de login
-![Interfaz de login](images/6.png)
+### Vista Profesorado
+![Profesorado](images/6.png)
 
 ---
 
 ## ⚙️ Requisitos
 
 - **Java 17** o superior  
-- **MySQL / MariaDB** (para la base de datos)  
+- **MySQL** (para la base de datos)  
 - Librerías externas ubicadas en `/Dependencias`
 
 ---
@@ -66,13 +66,13 @@ Algorlab/
 2. Importar el proyecto en tu IDE (Eclipse, IntelliJ, NetBeans, etc.)  
 3. Añadir las dependencias desde la carpeta `/Dependencias`  
 4. Configurar la base de datos desde `/Database`  
-5. Ejecutar la clase principal ubicada en `/Algorlab-Master/src/...`
+5. Ejecutar la clase principal ubicada en `/Algorlab-Master/src/algorlab/Ejecutora.java`
 
 ---
 
 ## 🌐 Versión web
 
-El módulo web (en desarrollo) permitirá que los alumnos accedan a su información mediante una interfaz PHP conectada a la misma base de datos.
+El módulo web permite a los alumnos que accedan a su información y tareas mediante una interfaz PHP, conectada a la misma base de datos.
 
 ---
 
@@ -107,29 +107,29 @@ Algorlab/
 - Moodle database connection  
 - Academic report generation  
 - Intuitive admin interface  
-- Synchronization with the PHP web module (in progress)
+- Synchronization with the PHP web module
 
 ---
 
 ## 🖼️ Screenshots
 
-### Main view
-![Main view](images/1.png)
+### Application Login
+![Login](images/1.png)
 
-### User management
-![User management](images/2.png)
+### Staff/Teacher Management
+![Staff Management](images/2.png)
 
-### Reports
-![Reports](images/3.png)
+### Student Management
+![Students](images/3.png)
 
-### Settings
-![Settings](images/4.png)
+### Task Management
+![Tasks](images/4.png)
 
-### Database
-![Database](images/5.png)
+### Submission Management
+![Submissions](images/5.png)
 
-### Login interface
-![Login interface](images/6.png)
+### Teacher View
+![Teachers](images/6.png)
 
 ---
 
@@ -150,13 +150,13 @@ Algorlab/
 2. Import the project into your IDE  
 3. Add dependencies from `/Dependencias`  
 4. Set up the database from `/Database`  
-5. Run the main class inside `/Algorlab-Master/src/...`
+5. Run the main class inside `/Algorlab-Master/src/algorlab/Ejecutora.java`
 
 ---
 
 ## 🌐 Web Module
 
-The web module (PHP) will allow students to log in and view their academic information directly from a browser.
+The web module allow students to log in and view their academic information and task using php using the same database.
 
 ---
 
