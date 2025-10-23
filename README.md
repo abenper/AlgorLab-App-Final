@@ -51,7 +51,7 @@ Algorlab/
 
 ## ⚙️ Requisitos
 
-- **Java 17** o superior  
+- **Java 22**
 - **MySQL** (para la base de datos)  
 - Librerías externas ubicadas en `/Dependencias`
 
@@ -135,7 +135,7 @@ Algorlab/
 
 ## ⚙️ Requirements
 
-- **Java 17** or higher  
+- **Java 22**
 - **MySQL / MariaDB**  
 - External libraries inside `/Dependencias`
 
