@@ -1,6 +1,8 @@
 # 🧠 AlgorLab-App-Final
 
-**AlgorLab** es una aplicación de escritorio desarrollada en **Java** para la **gestión integral de una plataforma Moodle**, orientada al **profesorado y al equipo directivo**. Además, el proyecto incluye una **web complementaria en PHP** que lo puedes encontrar en mi perfil pensada para el acceso de **alumnos**.
+[**Esta app necesita de la web Algorlab**](https://github.com/abenper/AlgorLab-Web-Final)
+
+**AlgorLab** es una aplicación de escritorio desarrollada en **Java** para la **gestión integral de una plataforma Moodle**, orientada al **profesorado y al equipo directivo**. Además, el proyecto incluye una [**web complementaria en PHP**](https://github.com/abenper/AlgorLab-Web-Final) pensada para el acceso de **alumnos**.
 
 ---
 
@@ -23,7 +25,7 @@ Algorlab/
 - Conexión con base de datos Moodle  
 - Generación de reportes académicos  
 - Interfaz intuitiva para administración  
-- Sincronización con la versión web en PHP (en progreso)
+- Sincronización con la versión web en PHP
 
 ---
 
@@ -84,7 +86,9 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [`LICENSE`](LI
 
 # 🇬🇧 English Version
 
-**AlgorLab** is a **Java desktop application** designed for **Moodle platform management**, focused on **teachers and school directors**. A **PHP web module** for students is also being developed.
+[**This app needs Algorlab Web to run correctly**](https://github.com/abenper/AlgorLab-Web-Final)
+
+**AlgorLab** is a **Java desktop application** designed for **Moodle platform management**, focused on **teachers and school directors**. A [**PHP web module**](https://github.com/abenper/AlgorLab-Web-Final) for students can be found on mi profile.
 
 ---
 
