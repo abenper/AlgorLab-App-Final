@@ -63,7 +63,7 @@ Algorlab/
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Algorlab.git
+   git clone https://github.com/abenper/AlgorLab-App-Final.git
    ```
 2. Importar el proyecto en tu IDE (Eclipse, IntelliJ, NetBeans, etc.)  
 3. Añadir las dependencias desde la carpeta `/Dependencias`  
@@ -140,7 +140,7 @@ Algorlab/
 ## ⚙️ Requirements
 
 - **Java 22**
-- **MySQL / MariaDB**  
+- **MySQL**  
 - External libraries inside `/Dependencias`
 
 ---
@@ -149,7 +149,7 @@ Algorlab/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Algorlab.git
+      git clone https://github.com/abenper/AlgorLab-App-Final.git
    ```
 2. Import the project into your IDE  
 3. Add dependencies from `/Dependencias`  
